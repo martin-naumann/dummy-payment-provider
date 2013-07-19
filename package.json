@@ -1,0 +1,15 @@
+{
+  "name": "DummyPayments",
+  "version": "0.0.1",
+  "author": "Martin Naumann",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "jade": "*",
+    "jsonwebtoken": "0.1.0",
+    "needle": "0.5.2"
+  }
+}
